@@ -1,11 +1,9 @@
 #!/bin/env python2
-# this tool created in year 2018
-# Coded by sachin
-# Studying manglore marine college and technology kuppepadav
-# Branch civil
-# this is my whats app number 8105190452
-# i love coding , am not a cs student
-# you can modify this tool
+# this tool reupload in year 2020
+# Coded by pakde
+# this is my whats app number +6283165613244
+# i love coding and i love hacking,i am not a hacker but i am a badut
+# you can modify this tool ? You can ask me
 
 import os
 from time import time, ctime
@@ -49,10 +47,10 @@ import vers
 
 def about():
  myself = '''
- \t\t Author      = Sachin
- \t\t mychannel   = https://youtu.be/Px7O1gNC9xg
- \t\t country     = India
- \t\t github link = https://github.com/sachin175638
+ \t\t Author      = pakde
+ \t\t mychannel   = https://youtube.com/channel/UC3vJ9t4Lg60YTVs1pteVGGQ
+ \t\t country     = Indonesia
+ \t\t github link = https://github.com/Aka-pakdd
  '''
  print myself
  qq = raw_input(":: Press enter ::")
@@ -158,7 +156,7 @@ def amma():
  os.system("sh modules/banner.sh")
  logo = '''
               \033[1;36m
-                     [+] coded by sachin
+                     [+] coded by pakde
  \033[1;39m
  '''
  print logo
@@ -421,7 +419,7 @@ def amma():
 						os.system("rm /data/data/com.termux/files/home/metasploit.sh")
 					bairamma=raw_input("Do you want to install metasploit-framework y/n : ")
 					if bairamma == "y":
-						os.system("curl -LO https://raw.githubusercontent.com/sachin175638/server1/master/metasploit.sh")
+						os.system("curl -LO https://raw.githubusercontent.com/Aka-pakde/server1/master/metasploit.sh")
 						os.system("mv metasploit.sh $HOME")
 						os.system("bash $HOME/metasploit.sh")
 						os.system("rm $HOME/metasploit.sh")
@@ -462,7 +460,7 @@ def amma():
 				os.system("rm /data/data/com.termux/files/home/metasploit.sh")
 			bairamma=raw_input("Do you want to install metasploit-framework y/n : ")
 			if bairamma == "y":
-				os.system("curl -LO https://raw.githubusercontent.com/sachin175638/server1/master/metasploit.sh")
+				os.system("curl -LO https://raw.githubusercontent.com/Aka-pakde/server1/master/metasploit.sh")
 				os.system("mv metasploit.sh $HOME")
 				os.system("bash $HOME/metasploit.sh")
 				os.system("rm $HOME/metasploit.sh")
@@ -473,7 +471,7 @@ def amma():
 		sachin ='''\033[1;32m
 	         ------===IP tools ===------\033[1;39m
 		'''
-		print sachin
+		print pakde
 		gatherinfo.bbsad()
 		os.system("rm -rf modules/gatherinfo.pyc")
 	elif x =="10":
@@ -508,7 +506,7 @@ def amma():
 		q = raw_input("Press Enter to continue ... ")
 	elif x == "99":
 		print ''
-		print "Bye Bye "
+		print " Selamat Tinggal Bro "
 		print ''
 	elif x == "-h":
 		guide()
