@@ -9,7 +9,7 @@ then
 	echo ''
 	echo 'Checking folder directory'
 	sleep 2
-	echo '[✔] Perfect'
+	echo '[✔] Sempurna Bro'
 	sleep 2
 	echo ''
 else
