@@ -1,5 +1,5 @@
 #!/bin/bash
-#This script written by sachin
+#This script written by pakde
 echo ''
 echo -n "Enter port : "
 read port
