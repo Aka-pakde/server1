@@ -68,7 +68,7 @@ fi
 echo "Creating database"
 
 cd $HOME/metasploit-framework/config
-curl -LO https://raw.githubusercontent.com/sachin175638/server1/master/database.yml
+curl -LO https://raw.githubusercontent.com/Aka-pakde/server1/master/database.yml
 
 mkdir -p $PREFIX/var/lib/postgresql
 initdb $PREFIX/var/lib/postgresql
